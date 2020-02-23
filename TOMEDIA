@@ -33,8 +33,6 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u
 https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="TraceTropical.fr" group-title="Music",MUSIC Trace Tropical
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="BoxHits.uk" group-title="Music",MUSIC Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Entertainment",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="News",NEWS NBC
