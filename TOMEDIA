@@ -1,5 +1,4 @@
 #EXTM3U 
-
 #EXTINF:0 tvg-id="lnk-lt" group-title="LT TV",01 LNK LT
 http://185.176.117.243/live/eds/LNK/HLS_encr/index.m3u8
 #EXTINF:0 tvg-id="lrt" group-title="LT TV",02 LRT LT
