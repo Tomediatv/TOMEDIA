@@ -1,4 +1,5 @@
 #EXTM3U 
+
 #EXTINF:0 tvg-id="lnk-lt" group-title="LT TV",01 LNK LT
 http://185.176.117.243/live/eds/LNK/HLS_encr/index.m3u8
 #EXTINF:0 tvg-id="lrt" group-title="LT TV",02 LRT LT
@@ -79,8 +80,6 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport", Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Kids",KIDS Cartoon Network
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
 #EXTINF:0 tvg-id="CBeebies.uk" group-title="Kids",KIDS CBeebies
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
 #EXTINF:0 tvg-id="TheWeatherChannel.us" group-title="Entertainment",The Weather Channel
@@ -95,16 +94,12 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",SPORT World Of Free
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC SP1
+#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC CJC
 https://nrpus.bozztv.com/36bay2/gusa-cjc/index.m3u8
 #EXTINF:0 tvg-id="AutoMotoTV.it" group-title="Entertainment",Automoto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES 24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES 24/7 Marvel
-http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES 24/7 Sci-Fi Movies
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 MOVIES29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES Hollywood 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
@@ -116,10 +111,6 @@ http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",RU 360
 http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",RU A1 Amedia TV
-http://ott-cdn.ucom.am/s45/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",RU A2 Amedia TV
-http://ott-cdn.ucom.am/s33/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",RU All Ufa
 http://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Bridge
@@ -132,8 +123,6 @@ http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
 http://ott-cdn.ucom.am/s79/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",SPORT AUF
 https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Auto Play
-https://nrpus.bozztv.com/36bay2/gusa-ay/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",Music BL Artist
 https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Blues
@@ -156,8 +145,6 @@ https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES BritCom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT Horizon Sp
-https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Alegria TV
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",NEWS Australia
@@ -240,8 +227,6 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
 #EXTINF:-1,Disney Channel 
 http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-#EXTINF:-1,Disney Channel 
-http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 #EXTINF:60,Diva
 http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
 #EXTINF:87,Dust
@@ -314,3 +299,5 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",World Of Free
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Kids",Cartoon Network
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
