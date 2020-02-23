@@ -91,8 +91,6 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:0 tvg-id="RacingUK.uk" group-title="Sport",SPORT Racing
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT World Of Free
-https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC CJC
 https://nrpus.bozztv.com/36bay2/gusa-cjc/index.m3u8
 #EXTINF:0 tvg-id="AutoMotoTV.it" group-title="Entertainment",Automoto TV
@@ -292,7 +290,5 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
 #EXTINF:0 tvg-id="BYUtv.us" group-title="Entertainment",TV BYU
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",World Of Free
-https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 #EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Kids",Cartoon Network
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
