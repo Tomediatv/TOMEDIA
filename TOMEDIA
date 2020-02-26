@@ -43,8 +43,6 @@ http://70.32.0.9:5000/live/543/playlist.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC MTV Norge
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:0 tvg-id="SkyNews.uk" group-title="News",NEWS Sky News
-http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",NEWS RT UK
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF:0 tvg-id="CNBC.nws" group-title="News",NEWS CNBC
@@ -77,8 +75,6 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport", Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
-#EXTINF:0 tvg-id="CBeebies.uk" group-title="Kids",KIDS CBeebies
-https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
 #EXTINF:0 tvg-id="TheWeatherChannel.us" group-title="Entertainment",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",TMZ
@@ -93,8 +89,6 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-cjc/index.m3u8
 #EXTINF:0 tvg-id="AutoMotoTV.it" group-title="Entertainment",Automoto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES 24/7 Friends
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 MOVIES29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES Hollywood 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
@@ -196,12 +190,6 @@ http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:38,Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
-#EXTINF:51,Animal Planet
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_499968=18-AnimalPlanet-mp4a_66000_eng=2.m3u8
-#EXTINF:47,Asian Food Network
-https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
-#EXTINF:100,BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
 #EXTINF:117,CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_500_av-b.m3u8?sd=10&rebase=on
 #EXTINF:14,CBS
@@ -212,12 +200,8 @@ http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
 https://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",CMC US
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:50,Discovery
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
 #EXTINF:-1,Disney Channel 
 http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
-#EXTINF:60,Diva
-http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
 #EXTINF:87,Dust
 https://dust.sinclair.wurl.com/manifest/1200.m3u8
 #EXTINF:67,E!
@@ -228,26 +212,14 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
 #EXTINF:41,Euronews
 https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:58,FOX Life
-https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
 #EXTINF:70,Filmbox
 https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
-#EXTINF:64,Fox Crime HD
-https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-FoxCrime-mp4a_98800_eng=3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",Fox HD Sport
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:30,Fox News Channel
-https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews-avc1_499968=8-FoxNews-mp4a_66000_eng=2.m3u8
 #EXTINF:16,Fox PS
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
-#EXTINF:75,Fox Sports 2
-https://anevia115.mncnow.id:443/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
 #EXTINF:82,H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:62,HITS
-https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_499968=12-HITS-mp4a_98800_eng=5.m3u8
-#EXTINF:52,History
-https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-History-mp4a_98800_eng=3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",Horizon Sp
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 #EXTINF:108,InfoWars
@@ -282,12 +254,8 @@ http://30a-tv.com/sidewalks.m3u8
 http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
 #EXTINF:61,Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
-#EXTINF:49,TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
 #EXTINF:0 tvg-id="BYUtv.us" group-title="Entertainment",TV BYU
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Kids",Cartoon Network
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Distro TV",Fashion TV L'Original
 https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="FASIONTV" tvg-logo="https://i.postimg.cc/Pqn4vQ31/images-20.png" group-title="SPORT TV",FASHION TV
