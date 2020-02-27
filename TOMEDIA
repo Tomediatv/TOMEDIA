@@ -220,8 +220,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 #EXTINF:82,H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",Horizon Sp
-https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 #EXTINF:108,InfoWars
 https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/chunklist_b866304.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",Knowledge Kids
@@ -290,7 +288,5 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 https://dl.dropboxusercontent.com/s/5e4k9czqgql8p25/TV3.m3u8?dl=0
 #EXTINF:-1 tvg-id="Fox Sports News" tvg-logo="https://i.postimg.cc/MGrPgSPY/images-60.jpg" group-title="SPORT TV",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fight Sports" tvg-logo="https://i.postimg.cc/Z54Mdjv6/fight-sports-logo-400x300jpg.jpg" group-title="SPORT TV",Fight Sports
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-id="REDBULL TV" tvg-logo="https://i.postimg.cc/cHqVH3Yz/images-63.jpg" group-title="SPORT TV",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
