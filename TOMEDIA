@@ -20,8 +20,6 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?fluxustv.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Entertainment",National Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="News",NEWS NBC
-http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:0 tvg-id="FineLiving.ru" group-title="Entertainment",Fine Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC MTV (Latin America)
@@ -62,14 +60,10 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",SPORT Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT Fox HD
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:0 tvg-id="RacingUK.uk" group-title="Sport",SPORT Racing
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC CJC
 https://nrpus.bozztv.com/36bay2/gusa-cjc/index.m3u8
-#EXTINF:0 tvg-id="AutoMotoTV.it" group-title="Entertainment",Automoto TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 MOVIES29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies",MOVIES Hollywood 1
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
@@ -87,8 +81,6 @@ http://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8
 http://ott-cdn.ucom.am/s34/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Bridge RU 
 http://ott-cdn.ucom.am/s78/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",RU Buy Home
-http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",SPORT RU Fast & Fun
 http://ott-cdn.ucom.am/s79/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",SPORT AUF
@@ -105,8 +97,6 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Dancestar TV
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT ESPN (New!)
-http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Hot Rock
 https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Afrobeats
@@ -145,18 +135,10 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start
 http://ott-cdn.ucom.am/s28/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies",RU TNT International
 http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1,3+ RU
-http://185.176.117.242/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD.m3u8
-#EXTINF:-1,KIDS Nicktoons RU
-http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
-#EXTINF:-1,Viasat Nature
-http://185.176.117.242/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",X Jasmin TV
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 #EXTINF:-1,STAR Movies
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
-#EXTINF:-1,MAFA
-https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
 #EXTINF:-1,SUNBURN TV
 https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 #EXTINF:-1,ONE GOLF
@@ -181,8 +163,6 @@ http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
 https://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",CMC US
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:-1,Disney Channel 
-http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 #EXTINF:87,Dust
 https://dust.sinclair.wurl.com/manifest/1200.m3u8
 #EXTINF:67,E!
@@ -229,14 +209,10 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:129,Sidewalks
 http://30a-tv.com/sidewalks.m3u8
-#EXTINF:0 tvg-id="SkyNews.uk" group-title="News",Sky News
-http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
 #EXTINF:61,Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:0 tvg-id="BYUtv.us" group-title="Entertainment",TV BYU
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Distro TV",Fashion TV L'Original
-https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="FASIONTV" tvg-logo="https://i.postimg.cc/Pqn4vQ31/images-20.png" group-title="SPORT TV",FASHION TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://2.bp.blogspot.com/-lQjyK-uOD7E/VMf3MN6yTVI/AAAAAAAACAo/7qqjhKp-p6s/s1600/qefgtrhy.png" group-title="Hollywood Movies",24/7 Friends
@@ -261,8 +237,6 @@ https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-
 https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MOVIES 19" tvg-logo="https://i.postimg.cc/hGGpfc0F/PlayTV_(2010).png" group-title="MOVIES TV",Movies 7
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="RTM SPORT" tvg-logo="https://i.postimg.cc/PJkwZztx/images-1.jpg" group-title="SPORT TV",RTM SPORT
-https://dl.dropboxusercontent.com/s/5e4k9czqgql8p25/TV3.m3u8?dl=0
 #EXTINF:-1 tvg-id="Fox Sports News" tvg-logo="https://i.postimg.cc/MGrPgSPY/images-60.jpg" group-title="SPORT TV",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="REDBULL TV" tvg-logo="https://i.postimg.cc/cHqVH3Yz/images-63.jpg" group-title="SPORT TV",REDBULL TV
