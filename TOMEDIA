@@ -55,8 +55,6 @@ https://nrpus.bozztv.com/36bay2/gusa-cjc/index.m3u8
 MOVIES29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",MUSIC 30A TV
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",RU 360
-http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",RU All Ufa
 http://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC Bridge
