@@ -197,8 +197,6 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
 #EXTINF:-1 tvg-id="Fox Sports News" tvg-logo="https://i.postimg.cc/MGrPgSPY/images-60.jpg" group-title="SPORT TV",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="REDBULL TV" tvg-logo="https://i.postimg.cc/cHqVH3Yz/images-63.jpg" group-title="SPORT TV",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="News",Al Jazeera HD
 http://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 group-title="News",DW TV English
