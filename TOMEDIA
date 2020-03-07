@@ -1,4 +1,5 @@
 #EXTM3U 
+
 #EXTINF:0 tvg-id="ext" group-title="Fashion",Fashion & LifeStyle 1
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Fashion",Fashion ID
@@ -7,24 +8,12 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playli
 http://212.26.132.86/hls/mb_ua_2500.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="TraceAFRICA.fr" group-title="Music",TraceAFRICA
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="TraceKitoko.fr" group-title="Music",MUSIC Trace Kitoko
-https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="TraceMziki.fr" group-title="Music",MUSIC Race Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-#EXTINF:0 tvg-id="TraceNaija.fr" group-title="Music",MUSIC Trace Naija
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="TraceToca.fr" group-title="Music",MUSIC Trace Toca
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="TraceTropical.fr" group-title="Music",MUSIC Trace Tropical
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Entertainment",National Geo
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:0 tvg-id="FineLiving.ru" group-title="Entertainment",Fine Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC MTV (Latin America)
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC MTV Norge
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",NEWS RT UK
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF:0 tvg-id="CNBC.nws" group-title="Movies",MOVIES ENT CNBC
@@ -43,7 +32,7 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Hunt Channel
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Hunt Channel 1
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:0 tvg-id="TennisChannel.us" group-title="Sport",SPORT Tennis
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
@@ -174,8 +163,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 #EXTINF:82,H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:108,InfoWars
-https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/chunklist_b866304.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",Knowledge Kids
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="News",NBC
@@ -186,16 +173,12 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Entertainment",National Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",NewsNet
-http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:13,PBS USA
 http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
 #EXTINF:145,Plant-Based Network
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
 #EXTINF:122,Popstar! TV
 https://dotstudio.vo.llnwd.net/v1/livestreams/popstar/manifest/ec9207ed6819582289cfdc7569d8065cc8aca126/Popstar_-_Frequency/f823cf72-f2d6-4c8b-9704-1d7821e882df/2.m3u8
-#EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",RT America
-https://rt-usa.secure.footprint.net/1105.m3u8
 #EXTINF:0 tvg-id="RacingUK.uk" group-title="Sport",Racing
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies",Screamfest
@@ -218,7 +201,6 @@ http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="REDBULL TV" tvg-logo="https://i.postimg.cc/cHqVH3Yz/images-63.jpg" group-title="SPORT TV",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
 #EXTINF:-1 group-title="News",Al Jazeera HD
 http://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 group-title="News",DW TV English
@@ -229,8 +211,6 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 http://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/chunklist_b2244608.m3u8
 #EXTINF:-1 group-title="News",NBC HD
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-#EXTINF:-1 group-title="News",NewsNet
-http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 group-title="News",RT America
 http://rt-usa.secure.footprint.net/1105.m3u8
 #EXTINF:-1, Hunt Channel
@@ -327,8 +307,6 @@ http://31.13.223.104:1935/travel/community.stream/chunklist_w79979599.m3u8
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="История и Наука",Discovery Science HD
 http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
-#EXTINF:-1 group-title="История и Наука",H2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 group-title="История и Наука",NASA TV
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 #EXTINF:-1 group-title="История и Наука",Terra Incognita HD
