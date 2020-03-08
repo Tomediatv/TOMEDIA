@@ -44,9 +44,6 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="RacingUK.uk" group-title="Sport",SPORT Racing
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",MUSIC CJC
-https://nrpus.bozztv.com/36bay2/gusa-cjc/index.m3u8
-MOVIES29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",MUSIC 30A TV
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",RU All Ufa
@@ -149,8 +146,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 #EXTINF:82,H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="News",NBC
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:83,Nat Geo People
