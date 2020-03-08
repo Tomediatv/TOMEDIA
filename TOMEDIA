@@ -22,8 +22,6 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",NEWS NewsNet
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
-#EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",NEWS RT America
-https://rt-usa.secure.footprint.net/1105.m3u8
 #EXTINF:0 tvg-id="CMC.hr" group-title="Music",MUSIC CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MUSIC CMC US
@@ -123,8 +121,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
 #EXTINF:-1,ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1,T Tennis
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Distro TV",Fashion TV L'Original
 https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 #EXTINF:57,AMC
@@ -183,8 +179,6 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:129,Sidewalks
 http://30a-tv.com/sidewalks.m3u8
-#EXTINF:61,Star World 1
-http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:0 tvg-id="BYUtv.us" group-title="Entertainment",TV BYU
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="FASIONTV" tvg-logo="https://i.postimg.cc/Pqn4vQ31/images-20.png" group-title="SPORT TV",FASHION TV
