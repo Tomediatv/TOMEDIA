@@ -2,8 +2,6 @@
 
 #EXTINF:0 tvg-id="ext" group-title="Fashion",Fashion & LifeStyle 1
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:0 tvg-id="mbu" group-title="Music",MUSIC MusicBox UA
-http://212.26.132.86/hls/mb_ua_2500.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="TraceAFRICA.fr" group-title="Music",TraceAFRICA
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="TraceMziki.fr" group-title="Music",MUSIC Race Mziki
@@ -42,8 +40,6 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",SPORT Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="RacingUK.uk" group-title="Sport",SPORT Racing
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",MUSIC 30A TV
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",RU All Ufa
@@ -146,8 +142,6 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 #EXTINF:82,H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-#EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="News",NBC
-http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:83,Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:85,National Geographic
@@ -186,8 +180,6 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 http://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/chunklist_b2244608.m3u8
 #EXTINF:-1 group-title="News",NBC HD
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-#EXTINF:-1 group-title="News",RT America
-http://rt-usa.secure.footprint.net/1105.m3u8
 #EXTINF:-1, Hunt Channel
 http://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/index.m3u8
 #EXTINF:-1,HBO
