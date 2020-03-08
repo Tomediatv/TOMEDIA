@@ -2,8 +2,6 @@
 
 #EXTINF:0 tvg-id="ext" group-title="Fashion",Fashion & LifeStyle 1
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Fashion",Fashion ID
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:0 tvg-id="mbu" group-title="Music",MUSIC MusicBox UA
 http://212.26.132.86/hls/mb_ua_2500.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="TraceAFRICA.fr" group-title="Music",TraceAFRICA
@@ -30,8 +28,6 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Hunt Channel 1
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:0 tvg-id="TennisChannel.us" group-title="Sport",SPORT Tennis
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:0 tvg-id="VH1.eur" group-title="Entertainment",VH1
@@ -127,8 +123,6 @@ https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:54,AXN
 http://210.210.155.66/h/h141/02.m3u8
-#EXTINF:38,Al Jazeera English
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
 #EXTINF:117,CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_500_av-b.m3u8?sd=10&rebase=on
 #EXTINF:14,CBS
@@ -149,8 +143,6 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
 #EXTINF:41,Euronews
 https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:70,Filmbox
-https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",Fox HD Sport
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:16,Fox PS
@@ -183,8 +175,6 @@ http://30a-tv.com/sidewalks.m3u8
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="FASIONTV" tvg-logo="https://i.postimg.cc/Pqn4vQ31/images-20.png" group-title="SPORT TV",FASHION TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="hd-xzyte" tvg-logo="https://i.postimg.cc/pX4gBwwJ/images-5.jpg" group-title="MOVIE TV",FILM BOX ARTHOUSE
-https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MBC MAX" tvg-logo="https://i.postimg.cc/W1jVzN1b/images-15.png" group-title="MOVIE TV",MBC MAX
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MBC2" tvg-logo="https://i.postimg.cc/SR05PdXN/images-55.jpg" group-title="MOVIE TV",MBC2
