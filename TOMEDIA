@@ -121,8 +121,6 @@ http://210.210.155.66/h/h141/02.m3u8
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_500_av-b.m3u8?sd=10&rebase=on
 #EXTINF:14,CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
-#EXTINF:68,CBS Reality
-http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
 #EXTINF:44,CGTN
 https://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",CMC US
@@ -169,8 +167,6 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MBC2" tvg-logo="https://i.postimg.cc/SR05PdXN/images-55.jpg" group-title="MOVIE TV",MBC2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
-#EXTINF:-1 tvg-id="Fox Sports News" tvg-logo="https://i.postimg.cc/MGrPgSPY/images-60.jpg" group-title="SPORT TV",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title="News",Al Jazeera HD
 http://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1 group-title="News",DW TV English
