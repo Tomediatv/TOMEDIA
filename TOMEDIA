@@ -15,8 +15,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF:0 tvg-id="CNBC.nws" group-title="Movies",MOVIES ENT CNBC
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
-#EXTINF:0,DOCUBOX
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",NEWS NewsNet
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:0 tvg-id="CMC.hr" group-title="Music",MUSIC CMC
